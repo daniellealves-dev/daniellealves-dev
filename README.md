@@ -15,7 +15,7 @@ Sou uma entusiasta da tecnologia, curiosa por natureza e apaixonada por aprender
 🧠 Valorizo o aprendizado contínuo e acredito que pequenos passos constroem grandes jornadas.
 
 ### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellealves-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielle-ferreira-dev/)
 
 ---
 
