@@ -3,7 +3,8 @@
 Seja bem-vindo(a) ao meu GitHub 😊
 
   Sou uma entusiasta da tecnologia e curiosa por natureza, com foco em transformar ideias em soluções práticas por meio do código.
-🎓 Estudante de **Sistemas para Internet** e atualmente dedicada ao desenvolvimento **Front-End**, com o objetivo de me tornar uma **Desenvolvedora Full Stack** no futuro.
+  
+ 🎓Estudante de **Sistemas para Internet** e atualmente dedicada ao desenvolvimento **Front-End**, com o objetivo de me tornar uma **Desenvolvedora Full Stack** no futuro.
 
 💡 Estou estudando e praticando com as seguintes tecnologias:
 
